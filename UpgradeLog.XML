@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="datecs">
+</Property><Property Name="Файл решения" Value="F:\Projects\Projects_VC\VS2005\datecs\datecs.sln">
+</Property><Property Name="Date" Value="10 июня 2013 г.">
+</Property><Property Name="Time" Value="14:40">
+</Property></Properties><Event ErrorLevel="0" Project="datecsfp" Source="datecsfp\datecsfp.vcproj" Description="Веб-развертывание на локальном IIS-сервере больше не поддерживается. Инструмент веб-развертывания был удален из параметров проекта.">
+</Event><Event ErrorLevel="1" Project="datecsfp" Source="datecsfp\datecsfp.vcproj" Description="Приложение было обновлено, чтобы включить параметры, связанные с контролем учетных записей пользователей (UAC), появившемся в Windows Vista. По умолчанию, в Windows Vista при включенном UAC, приложение запускается с теми же привилегиями, что и запустивший его процесс. Это также делает невозможным запуск приложений с технологией виртуализации. Параметры, связанные с UAC можно поменять на странице свойств проекта.">
+</Event><Event ErrorLevel="0" Project="datecsfp" Source="datecsfp\datecsfp.vcproj" Description="Проект обновлен успешно.">
+</Event><Event ErrorLevel="3" Project="datecsfp" Source="datecsfp\datecsfp.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="datecs.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="datecs.sln" Description="Converted">
+</Event></UpgradeLog>

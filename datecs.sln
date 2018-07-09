@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "datecsfp", "datecsfp\datecsfp.vcproj", "{61A05E27-2EF1-4F48-B008-7A6242041AB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		DebugLog|Win32 = DebugLog|Win32
+		Log|Win32 = Log|Win32
+		Release|Win32 = Release|Win32
+		ReleaseLog|Win32 = ReleaseLog|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61A05E27-2EF1-4F48-B008-7A6242041AB2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{61A05E27-2EF1-4F48-B008-7A6242041AB2}.Debug|Win32.Build.0 = Debug|Win32
+		{61A05E27-2EF1-4F48-B008-7A6242041AB2}.DebugLog|Win32.ActiveCfg = DebugLog|Win32
+		{61A05E27-2EF1-4F48-B008-7A6242041AB2}.DebugLog|Win32.Build.0 = DebugLog|Win32
+		{61A05E27-2EF1-4F48-B008-7A6242041AB2}.Log|Win32.ActiveCfg = Log|Win32
+		{61A05E27-2EF1-4F48-B008-7A6242041AB2}.Log|Win32.Build.0 = Log|Win32
+		{61A05E27-2EF1-4F48-B008-7A6242041AB2}.Release|Win32.ActiveCfg = Release|Win32
+		{61A05E27-2EF1-4F48-B008-7A6242041AB2}.Release|Win32.Build.0 = Release|Win32
+		{61A05E27-2EF1-4F48-B008-7A6242041AB2}.ReleaseLog|Win32.ActiveCfg = ReleaseLog|Win32
+		{61A05E27-2EF1-4F48-B008-7A6242041AB2}.ReleaseLog|Win32.Build.0 = ReleaseLog|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
